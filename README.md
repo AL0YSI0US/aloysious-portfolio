@@ -12,8 +12,6 @@
 >
 > I'm centering hard on learning JavaScript and Python best practices.
 
-
-
 <table align="center"><tr><td>
 <pre>
                   okay butLike whoAmI?          [i'll be vague:]
@@ -25,7 +23,7 @@
     mixed martial and aerial arts.        🌈 Queer 
 [x] Community Volunteer         ✊🏾 Black = Humxn
     - The Mission Continues  
-    - Team Rubicon       
+    - Team Rubicon     
     - Team RWB            🎼   🕺    🗣️   🎤    🛹   ⚒️💎⛏️
     - YouthCare           dj dancer poet singer sk8r Rock-hound
 </pre> 
@@ -34,18 +32,18 @@
 ## Feature #1: Deployment
 
 ````javascript
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 60 minutes
 
-Start time: _____
+Start time: 1:30
 
-Finish time: _____
+Finish time: 2:00
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30 minutes
 ````
 
 Deploy the starter code to Netlify.
 
-* [Add the URL to your live, deployed site to your README.]()
++ [deployed site]([https://vigilant-kirch-bc35ab.netlify.app](https://vigilant-kirch-bc35ab.netlify.app/)) { `https://vigilant-kirch-bc35ab.netlify.app` }
 
 #### What are we going to implement?
 
