@@ -23,6 +23,7 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 // core components
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
+// change image here
 import profile from "assets/img/theme/team-4-800x800.jpg";
 
 class Profile extends React.Component {
@@ -123,8 +124,9 @@ class Profile extends React.Component {
                     </Col>
                   </Row>
                   <div className="text-center mt-5">
+                    {/* make it about me! */}
                     <h3>
-                      Jessica Jones{" "}
+                      Aloysious {" "}
                       <span className="font-weight-light">, 27</span>
                     </h3>
                     <div className="h6 font-weight-300">

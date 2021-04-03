@@ -6,10 +6,10 @@ Deploy the starter code to Netlify.
 2. clone {SSH}
 3. frame up: switch readme / acc roadMap.md / delete files not needed
 4. setup README.md with basic stuff and time logs
-   1. [o] push framed up code to github
+   1. [✔️] push framed up code to github
 
 * [portfolio-prep](https://github.com/AL0YSI0US/portfolio-prep)
-* [deployed site]()
+* [deployed site]([https://vigilant-kirch-bc35ab.netlify.app](https://vigilant-kirch-bc35ab.netlify.app/)) { `https://vigilant-kirch-bc35ab.netlify.app` }
 
 ### Feature #2: Modify the contents
 
@@ -51,7 +51,6 @@ Then the content should be unique and reflect the skills and personality of the 
 
 [o] Remove the “Download” button.
 
-
 ---
 
 + **Redo the “Landing” page as your new Portfolio page:**
@@ -66,10 +65,7 @@ Then the content should be unique and reflect the skills and personality of the 
 
 [o] Delete sections you aren't utilizing.
 
-
-
 Throughout the site, change the content and images to reflect your personal preferences. If you are using online images, make sure they are licensed for free, commercial use. For example, [Unsplash](https://unsplash.com/) has a nice variety of free images.
-
 
 [o] image changed : file location
 
