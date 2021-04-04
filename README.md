@@ -41,11 +41,11 @@ Finish time: 2:00
 Actual time needed to complete: 30 minutes
 ````
 
-Deploy the starter code to Netlify.
+#### What are we going to implement?
+
+1. **Deploy the starter code to Netlify.**
 
 + [deployed site]([https://vigilant-kirch-bc35ab.netlify.app](https://vigilant-kirch-bc35ab.netlify.app/)) { `https://vigilant-kirch-bc35ab.netlify.app` }
-
-#### What are we going to implement?
 
 ## Feature #2: Modify the contents
 
@@ -65,9 +65,8 @@ Actual time needed to complete: _____
 
 #### What are we going to implement?
 
-Given that a user opens the application in the browser
-When the user navigates to the home page
-Then the content should be unique and reflect the skills and personality of the developer.
+1. Given that a user opens the application in the browser, when the user navigates to the home page
+   the content should be unique and reflect the skills and personality of the developer.
 
 ### 🌐 R E S O U R C E S
 
@@ -86,7 +85,7 @@ Then the content should be unique and reflect the skills and personality of the 
 
 ### ❤️ G R A T T I T U D E
 
-+ Props to { `Instructor Michelle` } for helping me get the lab initially setup. I was having issues right out the gate, getting past `npm start`.
++ Props to { `Instructor Michelle` } for helping me get the lab initially setup. I was having issues right out the gate, getting past `npm start`. She also continued to get me out of jams....I was shown how to condense codeblocks in vs code in order to see where they end and begin. Incredibly helpful for working with large code bases you have not written/are familiar with yet. Thank you!!!
 
 <p align="center">
 <img src="https://github.com/AL0YSI0US/AL0YSI0US/blob/main/img/linkedin.png?raw=true" height="auto" width="auto">
