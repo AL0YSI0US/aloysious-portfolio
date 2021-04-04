@@ -27,43 +27,43 @@ Then the content should be unique and reflect the skills and personality of the 
 * Modify the contents of the template to make it your own. *You may utilize existing JSX elements*, but the content should be adapted to reflect your personal details and skills.
 * Apply the following changes to the provided **Profile example page**, some of which were part of your prework for this course:
 
-  [o] Replace the profile picture with your own.
+  [✔️] Replace the profile picture with your own.
 
-  [o] Update the name, location, title, and education rows with your own info.
+  [✔️] Update the name, location, title, and education rows with your own info.
 
-  [o] Add a personal headline. This should be the same as or similar to your headline on your LinkedIn profile.
+  [✔️] Add a personal headline. This should be the same as or similar to your headline on your LinkedIn profile.
 
-  [o] Replace the numerical values and labels with something meaningful to you.
+  [✔️] Replace the numerical values and labels with something meaningful to you.
 
 ---
 
 + **Update the Nav, Header, and Footer:**
 
-[o] Remove the “Components” dropdown menu.
+  [✔️] Remove the “Components” dropdown menu.
 
-[o] Change the “Examples” menu to be titled simply “Menu”.
+  [✔️] Change the “Examples” menu to be titled simply “Menu”.
 
-[o] Within the menu link to a Profile page, and a Portfolio page. Remove other links.
+  [o] Within the menu link to a Profile page, and a Portfolio page. Remove other links.
 
-[o] Change the routes so the Profile page loads at `/`, and the “Landing” page loads at `/portfolio`. Move the initial Index page to load at `/how-to` for your own reference.
+  [o] Change the routes so the Profile page loads at `/`, and the “Landing” page loads at `/portfolio`. Move the initial Index page to load at `/how-to` for your own reference.
 
-[o] Fix up the social media icons and their links as you like. At least swap out Facebook for LinkedIn, and ensure you are linking to your GitHub account here. These icons are included via FontAwesome.
+  [o] Fix up the social media icons and their links as you like. At least swap out Facebook for LinkedIn, and ensure you are linking to your GitHub account here. These icons are included via FontAwesome.
 
-[o] Remove the “Download” button.
+  [o] Remove the “Download” button.
 
 ---
 
 + **Redo the “Landing” page as your new Portfolio page:**
 
-[o] Change the text in the top section to state what you are excited about in tech.
+  [o] Change the text in the top section to state what you are excited about in tech.
 
-[o] Use the Cards to BRIEFLY descbribe your previous projects, and include placeholders for future 301 and 401 projects.
+  [o] Use the Cards to BRIEFLY descbribe your previous projects, and include placeholders for future 301 and 401 projects.
 
-[o] Include more detail below on projects you’d like to showcase.
+  [o] Include more detail below on projects you’d like to showcase.
 
-[o] Make an All About Me section, add your personal pitch.
+  [o] Make an All About Me section, add your personal pitch.
 
-[o] Delete sections you aren't utilizing.
+  [o] Delete sections you aren't utilizing.
 
 Throughout the site, change the content and images to reflect your personal preferences. If you are using online images, make sure they are licensed for free, commercial use. For example, [Unsplash](https://unsplash.com/) has a nice variety of free images.
 

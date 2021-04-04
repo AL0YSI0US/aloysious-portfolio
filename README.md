@@ -23,7 +23,7 @@
     mixed martial and aerial arts.        🌈 Queer 
 [x] Community Volunteer         ✊🏾 Black = Humxn
     - The Mission Continues  
-    - Team Rubicon     
+    - Team Rubicon   
     - Team RWB            🎼   🕺    🗣️   🎤    🛹   ⚒️💎⛏️
     - YouthCare           dj dancer poet singer sk8r Rock-hound
 </pre> 
@@ -71,7 +71,10 @@ Then the content should be unique and reflect the skills and personality of the 
 
 ### 🌐 R E S O U R C E S
 
-+
++ `< >` [Escaping special characters in HTML](https://stackoverflow.com/questions/48151764/how-to-escape-and-all-special-characters-in-javascript) -*stackoverflow*
+  + **before:** `&lt;they&gt;💻&lt;/them&gt;` **after:** `<they>💻</them>`
++ `<br />` [text line breaks in react](https://stackoverflow.com/questions/32469570/how-can-i-insert-a-line-break-into-a-text-component-in-react-native) -*stackoverflow*
+  + `<br />` : needs to have a self closing tag in order to function properly
 
 ### 👥 C O L L A B O R A T O R S
 
