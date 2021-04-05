@@ -125,10 +125,13 @@ class Profile extends React.Component {
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Aloysious {" "}
-                      <span className="font-weight-light">,35</span>
+                       Aloysious {" "}
+                      <span className="font-weight-light"></span>
                       <p>
-                        &lt;they&gt;💻&lt;/them&gt;<br />  
+                      LVL 35 HUMXN
+                      </p>
+                      <p>
+                        &lt;they&gt; 💻 &lt;/them&gt;<br />  
                         Cloud Native Web Developer | Agile Python Poet-beta<br />
                         Neurodiversity Advocate | Community Cultivator | Army Veteran<br />  
                         Permissionary | Autistic
@@ -153,9 +156,9 @@ class Profile extends React.Component {
                         <p>
                           The line between disorder and order lies in logistics -Sun Tzu
                         </p>
-                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                        {/* <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
-                        </a>
+                        </a> */}
                       </Col>
                     </Row>
                   </div>
