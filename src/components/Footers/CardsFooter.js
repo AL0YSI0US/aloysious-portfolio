@@ -151,10 +151,7 @@ class CardsFooter extends React.Component {
                     </NavLink>
                   </NavItem>
                   <NavItem>
-                    <NavLink
-                      href="https://github.com/AL0YSI0US/aloysious-portfolio/blob/main/LICENSE"
-                      target="_blank"
-                    >
+                    <NavLink href="https://github.com/AL0YSI0US/aloysious-portfolio/blob/main/LICENSE" target="_blank">
                       MIT License
                     </NavLink>
                   </NavItem>
