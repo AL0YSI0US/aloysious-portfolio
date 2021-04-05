@@ -24,7 +24,7 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
 // change image here
-import profile from "assets/img/theme/team-4-800x800.jpg";
+import profile from "assets/img/theme/ALOYSIOUS.JPG";
 
 class Profile extends React.Component {
   componentDidMount() {
@@ -109,52 +109,56 @@ class Profile extends React.Component {
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">22</span>
-                          <span className="description">Friends</span>
+                          <span className="heading">3</span>
+                          <span className="description">Organizations</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="heading">49</span>
+                          <span className="description">Repositories</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
-                          <span className="description">Comments</span>
+                          <span className="heading">2.8k</span>
+                          <span className="description">Profile Views</span>
                         </div>
                       </div>
                     </Col>
                   </Row>
                   <div className="text-center mt-5">
-                    {/* make it about me! */}
                     <h3>
-                      Aloysious {" "}
-                      <span className="font-weight-light">, 27</span>
+                       Aloysious {" "}
+                      <span className="font-weight-light"></span>
+                      <p>
+                      LVL 35 HUMXN
+                      </p>
+                      <p>
+                        &lt;they&gt; 💻 &lt;/them&gt;<br />  
+                        Cloud Native Web Developer | Agile Python Poet-beta<br />
+                        Neurodiversity Advocate | Community Cultivator | Army Veteran<br />  
+                        Permissionary | Autistic
+                        </p>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Bucharest, Romania
+                      Greater Seattle area, Washington
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      Cloud Native Developer
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      Code Fellows - Student
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                          The line between disorder and order lies in logistics -Sun Tzu
                         </p>
-                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                        {/* <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
-                        </a>
+                        </a> */}
                       </Col>
                     </Row>
                   </div>
