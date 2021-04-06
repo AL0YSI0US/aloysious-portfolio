@@ -75,6 +75,10 @@ Actual time needed to complete: _____
 + `<br />` [text line breaks in react](https://stackoverflow.com/questions/32469570/how-can-i-insert-a-line-break-into-a-text-component-in-react-native) -*stackoverflow*
   + `<br />` : needs to have a self closing tag in order to function properly
 
+### 🛠️ T O O L S
+
++ [Gravatar](https://en.gravatar.com/aloysiousx) - { `A Globally Recognized Avatar` }
+
 ### 👥 C O L L A B O R A T O R S
 
 +
