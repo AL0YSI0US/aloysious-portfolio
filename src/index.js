@@ -23,16 +23,14 @@ import "assets/scss/argon-design-system-react.scss?v1.1.0";
 
 import Index from "views/Index.js";
 import Profile from "views/examples/Profile.js";
-import Portfolio from "views/examples/Portfolio";
+import Landing from "views/examples/Landing.js";
 
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
       <Route path="/" exact render={props => <Profile {...props} />} 
       />
-      <Route path="/profile" exact render={props => <Profile {...props} />}
-      />
-      <Route path="/portfolio" exact render={props => <Portfolio {...props} />} 
+      <Route path="/portfolio" exact render={props => <Landing {...props} />} 
       />
       <Route path="/how-to" exact render={props => <Index {...props} />}
       />
